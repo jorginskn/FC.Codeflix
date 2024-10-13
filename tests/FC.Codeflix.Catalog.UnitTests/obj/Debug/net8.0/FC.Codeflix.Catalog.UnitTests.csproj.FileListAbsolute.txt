@@ -100,3 +100,4 @@ C:\Projetos\FC.Codeflix.Catalog\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.Un
 C:\Projetos\FC.Codeflix.Catalog\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.UnitTests\obj\Debug\net8.0\FC.Codeflix.Catalog.UnitTests.pdb
 C:\Projetos\FC.Codeflix.Catalog\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.UnitTests\obj\Debug\net8.0\FC.Codeflix.Catalog.UnitTests.genruntimeconfig.cache
 C:\Projetos\FC.Codeflix.Catalog\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.UnitTests\obj\Debug\net8.0\ref\FC.Codeflix.Catalog.UnitTests.dll
+C:\Projetos\FC.Codeflix.Catalog\FC.Codeflix.Catalog\tests\FC.Codeflix.Catalog.UnitTests\obj\Debug\net8.0\FC.Codeflix.Catalog.UnitTests.sourcelink.json

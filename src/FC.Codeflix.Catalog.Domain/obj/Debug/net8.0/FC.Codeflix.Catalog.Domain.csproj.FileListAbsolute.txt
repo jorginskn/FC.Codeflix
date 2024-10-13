@@ -9,3 +9,4 @@ C:\Projetos\FC.Codeflix.Catalog\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Doma
 C:\Projetos\FC.Codeflix.Catalog\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\obj\Debug\net8.0\refint\FC.Codeflix.Catalog.Domain.dll
 C:\Projetos\FC.Codeflix.Catalog\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\obj\Debug\net8.0\FC.Codeflix.Catalog.Domain.pdb
 C:\Projetos\FC.Codeflix.Catalog\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\obj\Debug\net8.0\ref\FC.Codeflix.Catalog.Domain.dll
+C:\Projetos\FC.Codeflix.Catalog\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog.Domain\obj\Debug\net8.0\FC.Codeflix.Catalog.Domain.sourcelink.json
