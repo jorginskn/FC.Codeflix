@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FC.Codeflix.Catalog.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83f13cf4804d0256cfce3db6ecac3a946840aa5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9a3b1dcc91589b5c1032a7ab73619446d989286")]
 [assembly: System.Reflection.AssemblyProductAttribute("FC.Codeflix.Catalog.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FC.Codeflix.Catalog.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

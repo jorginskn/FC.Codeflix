@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dBPvTO/YGyM=",
+  "dgSpecHash": "vgTdlQagiZU=",
   "success": true,
   "projectFilePath": "C:\\Projetos\\FC.Codeflix.Catalog\\FC.Codeflix.Catalog\\tests\\FC.Codeflix.Catalog.UnitTests\\FC.Codeflix.Catalog.UnitTests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Jorge\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512",
     "C:\\Users\\Jorge\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Jorge\\.nuget\\packages\\fluentassertions\\6.12.1\\fluentassertions.6.12.1.nupkg.sha512",
     "C:\\Users\\Jorge\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
