@@ -26,7 +26,7 @@ git clone https://github.com/codeedu/fc3-catalogo-de-videos-dotnet.git
 ## Ferramentas necessárias
 
 - Visual Studio 2022
-- SDK do .NET 6 instalado
+- SDK do .NET 8 instalado
 - Docker Desktop (para integração do Docker com o Visual Studio)
 
 <br /><br />
