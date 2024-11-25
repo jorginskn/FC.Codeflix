@@ -71,7 +71,7 @@ public class CategoryTest
     {
         var validCategory = _fixture.GetValidCategory();
         Action action = () => new DomainEntity.Entity.Category(validCategory.Name!, null);
-        action.Should().Throw<DomainEntity.Exceptions.EntityValidationException>().WithMessage("Description should not be empty or null");
+        action.Should().Throw<DomainEntity.Exceptions.EntityValidationException>().WithMessage("Description should not be null");
     }
 
     [Theory(DisplayName = nameof(InstantiateErrorWhenNameIsLessThan3Characters))]
@@ -101,7 +101,7 @@ public class CategoryTest
         var validCategory = _fixture.GetValidCategory();
         var invalidDescription = string.Join(null, Enumerable.Range(1, 10_001).Select(_ => "a").ToArray());
         Action action = () => new DomainEntity.Entity.Category(validCategory.Name, invalidDescription);
-        action.Should().Throw<DomainEntity.Exceptions.EntityValidationException>().WithMessage("Description should be less or equal 10.000 characters long");
+        action.Should().Throw<DomainEntity.Exceptions.EntityValidationException>().WithMessage("Description should be less or equal 10000 characters long");
     }
 
     public static IEnumerable<object[]> GetNamesWithLessThan3Characters()
@@ -210,7 +210,7 @@ public class CategoryTest
             invalidDescription = $"{invalidDescription} {_fixture.Faker.Commerce.ProductDescription()}";
         }
         Action action = () => validCategory.Update(validCategory.Name, invalidDescription);
-        action.Should().Throw<DomainEntity.Exceptions.EntityValidationException>().WithMessage("Description should be less or equal 10.000 characters long");
+        action.Should().Throw<DomainEntity.Exceptions.EntityValidationException>().WithMessage("Description should be less or equal 10000 characters long");
     }
 
 }
