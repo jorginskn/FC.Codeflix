@@ -1,1 +1,8 @@
-.vs/
+# Ignore build outputs
+bin/
+obj/
+*.dll
+*.pdb
+*.cache
+*.nuget.dgspec.json
+*.sourcelink.json
