@@ -6,3 +6,5 @@ obj/
 *.cache
 *.nuget.dgspec.json
 *.sourcelink.json
+*.vs
+*.bin
