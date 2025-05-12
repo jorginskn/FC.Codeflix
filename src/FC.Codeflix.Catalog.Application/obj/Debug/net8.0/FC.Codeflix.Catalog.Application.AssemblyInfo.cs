@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FC.Codeflix.Catalog.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11b2a2ef51b7e22a96fc807b90f7e614f567f030")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abf9ba383a1d381d7eeaaa178b9e9a5981037b6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FC.Codeflix.Catalog.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FC.Codeflix.Catalog.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
